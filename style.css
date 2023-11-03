@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+  }
+ 
+  header {
+    background-color: #0cc;
+    padding: 10px;
+  }
+ 
+  nav {
+    float: right;
+  }
+ 
+  nav a {
+    text-decoration: none;
+    padding: 10px;
+    color: #000;
+  }
+ 
+  main {
+    width: 90%;
+    margin: 0 auto;
+  }
+ 
+  section {
+    padding: 10px;
+  }
+ 
+  footer {
+    background-color: #0cc;
+    padding: 10px;
+    text-align: center;
+  }
+ 
+  tx{
+    font-size: 70px;
+  }
